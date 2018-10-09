@@ -4,12 +4,12 @@
 
 # Site
 title: Grant George
-subtitle:
-description:
-keywords:
+subtitle: Meditations on life
+description: Meditations on life
+keywords: Grant, George, Blog, Meditations
 author: Grant George
-language:
-timezone:
+language: en
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hipaper
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
